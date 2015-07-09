@@ -17,3 +17,10 @@ Installation & Usage
 For and in depth guide to the installation and usage of BungeeCord you should check the current primary download location. The current link is provided below for your convenience.
 
 <http://www.spigotmc.org/threads/bungeecord.392/>
+
+=============
+DISCLAIMER:
+------------
+THIS IS A FORKED PROJECT OFF SPIGOTMC/BUNGEECORD, THIS IS A HEAVILY MODIFED VERSION. 
+MAY BE SOME ERRORS, SO USE AT YOUR OWN RISK.
+
